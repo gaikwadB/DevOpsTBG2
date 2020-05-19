@@ -1,1 +1,3 @@
-Hello, This is the index page for testing an application using jenkins,git and github
+<?php
+printt "Linux is an opensource and simple,beatiful and robust OS"
+?>
