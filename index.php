@@ -1,3 +1,3 @@
 <?php
-printt "Linux is an opensource and simple,beatiful and robust OS"
+print "Linux is an opensource and simple,beatiful and robust OS"
 ?>
